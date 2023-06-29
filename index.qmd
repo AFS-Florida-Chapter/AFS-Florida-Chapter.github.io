@@ -11,4 +11,4 @@ editor: source
 # Continuing Education Committee
 
 * [Meeting Notes](https://AFS-Florida-Chapter.github.io/CE-committee)
-* [Workshop Ideas Tracking](https://fwcc-my.sharepoint.com/:f:/r/personal/jason_oconnor_myfwc_com/Documents/Documents/Working_Groups/FLAFS_CE_Committee?csf=1&web=1&e=Vl7UpL)
+* [Committee Docs](https://drive.google.com/drive/folders/1W_bZGeJDpjzV0rEXNILKVXCh2YZljoJC?usp=drive_link)

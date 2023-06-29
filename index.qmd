@@ -1,9 +1,10 @@
 ---
 title: "Florida Chapter GitHub Page"
+title-block-banner: "#27445C"
+logo: logo.png
 format: 
   html:
-    page-layout: full
-    favicon: logo.png
+    page-layout: article
 editor: source
 ---
 
